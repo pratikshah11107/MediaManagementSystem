@@ -1,0 +1,148 @@
+﻿body
+{
+	margin: 0;
+	padding: 0;
+	font-family:Calibri;
+	font-size:13px;
+}
+
+td
+{
+	height: 30px;
+}
+
+.heading
+{
+	font-family:Paint Peel;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.subheading
+{
+	font-family: Calibri;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.subsubheading
+{
+	font-family: Calibri;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.horizontal
+{
+	width: 90%;
+	border: 1px Solid Gray;
+}
+
+.error
+{
+	font-family: Calibri;
+	font-size: 13px;
+	color: Red;
+	font-style: italic;
+}
+
+.watermark
+{
+	width:250px;
+	color: Gray;
+	font-style: italic;
+	font-size: 11px;
+	font-family: Calibri;
+}
+
+.btn
+{
+	font-family: Calibri;
+	background-color: Black;
+	color: White;
+	border: 1px Solid Gray;
+	font-size: 13px;
+}
+
+.txt1
+{
+	width: 75px;
+	font-family: Calibri;
+}
+
+.txt2
+{
+	width: 150px;
+	font-family: Calibri;
+}
+.txt3
+{
+	width: 200px;
+	font-family: Calibri;
+}
+.txt4
+{
+	width: 250px;
+	font-family: Calibri;
+}
+
+.lbl
+{
+	font-family: Calibri;
+	font-size: 13px;
+	color: Black;
+}
+
+.lbtn
+{
+	font-family: Calibri;
+	font-size: 13px;
+	color: Black;
+}
+
+.pnlmain
+{
+	padding: 0;
+	border-width: 5px;
+	border-style: solid;
+	border-color: Gray;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+.pnlsub
+{
+	padding: 0;
+	border-width: 2px;
+	border-style: solid;
+	border-color: Gray;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+.ddl
+{
+	font-family: Calibri;
+	font-size: 13px;
+	color: Black;
+}
+
+.ajaxvalidator
+{
+    border: 1px solid #FF0000;
+}
+
+.customvalidator
+{
+    visibility: hidden;
+    display: none;
+}
+
+.modalbackground
+{
+    filter:alpha(opacity=50);
+    opacity:0.5;
+    background-color:#6699FF;
+}
